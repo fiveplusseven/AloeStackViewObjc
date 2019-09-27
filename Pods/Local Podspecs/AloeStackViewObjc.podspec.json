@@ -1,0 +1,22 @@
+{
+  "name": "AloeStackViewObjc",
+  "version": "0.2",
+  "license": {
+    "type": "MIT"
+  },
+  "summary": "nope",
+  "homepage": "nope",
+  "authors": {
+    "longjianjiang": "brucejiang5.7@gmail.com"
+  },
+  "source": {
+    "git": "",
+    "tag": ""
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "public_header_files": "AloeStackViewObjc/Source/*.h",
+  "source_files": "AloeStackViewObjc/Source/*.{h,m}"
+}
